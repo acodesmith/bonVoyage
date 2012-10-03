@@ -9,21 +9,19 @@ Submitting the form will not cause the message to appear.
 ====================================================================================
 ====================================================================================
 
-//simple use, all fields watched
-$("form").bonVoyage();
+    //simple use, all fields watched
+    $("form").bonVoyage();
 
-//All possible options
-$("form").bonVoyage({
-    changeAgents: [],
-    exitMessage: "Leaving the page will cause your changes to be lost.",
-    ignoreAgents: [],
-    ignoreButtons: [],
-    afterChange: function () {},
-    catchSubmit: false
-});
+    //All possible options
+    $("form").bonVoyage({
+        changeAgents: [],
+        exitMessage: "Leaving the page will cause your changes to be lost.",
+        ignoreAgents: [],
+        ignoreButtons: [],
+        afterChange: function () {},
+        catchSubmit: false
+    });
 
-//possible array values
-//["#exampleId", ".className", "#mixed .useOne", ".mixed, .useTwo"]
 
 ====================================================================================
 ====================================================================================
