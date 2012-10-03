@@ -6,6 +6,9 @@ A jQuery plugin for form change detection with exit warning message.
 If a user changes a form field then tries to exit the page a warning message will appear.
 Submitting the form will not cause the message to appear.
 
+
+FYI: jQuery .on required! v1.8+
+
 ====================================================================================
 ====================================================================================
 
