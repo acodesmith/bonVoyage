@@ -61,7 +61,6 @@ Watch Fields / Change Agents
         }
 
         var unBindElements = function (handlers) {
-            console.log($(handlers.join(", ")));
             $(handlers.join(", ")).on('click', function () {
                 $(window).unbind('beforeunload');
             });
