@@ -1,7 +1,7 @@
 {
     "name": "bonVoyage",
     "title": "jQuery Bon Voyage",
-    "description": "A jQuery plugin for form change detection with exit warning message.",
+    "description": "A plugin for form change detection with exit warning message.",
     "keywords": [
         "javascript",
         "exit",

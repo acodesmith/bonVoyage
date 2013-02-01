@@ -7,8 +7,8 @@ Exit Message
 Submit Catch
 After Change Callback
 Ignore Buttons
-Ignore Fields
-Watch Fields / Change Agents
+Ignore Fields 
+Watch Fields / Change Agents 
 */
 (function ($) {
 
