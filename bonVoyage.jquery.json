@@ -9,25 +9,27 @@
         "warning",
         "onbeforeunload"
     ],
-    "version": "0.1.0",
+    "version": "0.1.2",
     "author": {
-        "name": "AdamSmith",
-        "url": "http: //acodesmith.com/about"
+        "name": "Adam Smith",
+        "url": "http: //acodesmith.com"
     },
     "maintainers": [
         {
             "name": "AdamSmith",
-            "email": "adam@wideopentech.com",
-            "url": "http: //wideopentech.com"
+            "email": "adam@acodesmith.com",
+            "url": "http: //acodesmith.com"
         }
     ],
     "licenses": [
         {
-            "type": "MIT",
-            "url": "https: //github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+            "type": "GPLv2",
+            "url": "http://www.example.com/licenses/gpl.html"
         }
     ],
+    "homepage": "https://github.com/aCodeSmith/bonVoyage",
+    "docs": "https://github.com/aCodeSmith/bonVoyage/blob/master/README.md",
     "dependencies": {
         "jquery": ">=1.7"
     }
-} 
+}
